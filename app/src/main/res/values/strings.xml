@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">News App Using Rest API</string>
+    <string name="api_key">986e236aec764d2f96de5eddf478ab52</string>
+</resources>
